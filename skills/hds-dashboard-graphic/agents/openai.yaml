@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dashboard Service Illustration"
+  short_description: "Miniature dashboard whose chart bars respond on hover."
+  default_prompt: "Use $hds-dashboard-graphic to apply dashboard service illustration to this project."

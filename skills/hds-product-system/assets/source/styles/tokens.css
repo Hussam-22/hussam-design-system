@@ -1,0 +1,54 @@
+:root {
+  --page: #f8f5f8;
+  --surface: #ffffff;
+  --ink: #201c26;
+  --muted: #737373;
+  --line: #ded6e2;
+  --soft: #f0eaf2;
+  --accent-ink: #8b3b91;
+  --accent: #efd0f0;
+  --accent-violet: #ac85ed;
+  --accent-pink: #df70ac;
+  --accent-amber: #eea572;
+  --accent-gradient: linear-gradient(
+    110deg,
+    #7941a0 0%,
+    #a73880 52%,
+    #a95425 100%
+  );
+  --accent-surface-gradient: linear-gradient(
+    110deg,
+    #b697fa 0%,
+    #efa1d0 52%,
+    #ffc293 100%
+  );
+  --background: var(--surface);
+  --foreground: var(--ink);
+  --primary: var(--ink);
+  --primary-foreground: var(--page);
+  --secondary: var(--soft);
+  --secondary-foreground: var(--ink);
+  --muted-foreground: var(--muted);
+  --accent-foreground: var(--ink);
+  --border: var(--line);
+  --input: var(--line);
+  --ring: #ad56b7;
+  --destructive: #b32626;
+  --display: "Inter Tight Variable", Arial, sans-serif;
+  --body: "Manrope Variable", Arial, sans-serif;
+  color-scheme: light;
+}
+[data-theme="dark"] {
+  --page: #000000;
+  --surface: #1a171f;
+  --ink: #f4f0f7;
+  --muted: #cacaca;
+  --line: #3b3443;
+  --soft: #201b27;
+  --accent-ink: #edafd9;
+  --accent: #e5b1e9;
+  --accent-gradient: var(--accent-surface-gradient);
+  --ring: #dda4f4;
+  --destructive: #f99c9c;
+  color-scheme: dark;
+}

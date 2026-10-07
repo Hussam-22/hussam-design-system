@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll Progress Timeline"
+  short_description: "Four-stage process with a scroll-drawn gradient connector and"
+  default_prompt: "Use $hds-process-timeline to apply scroll progress timeline to this project."

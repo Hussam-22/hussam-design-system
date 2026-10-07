@@ -1,0 +1,4 @@
+interface:
+  display_name: "Violet Contribution Heatmap"
+  short_description: "Seven-row activity chart with a five-step violet intensity sc"
+  default_prompt: "Use $hds-contribution-heatmap to apply violet contribution heatmap to this project."

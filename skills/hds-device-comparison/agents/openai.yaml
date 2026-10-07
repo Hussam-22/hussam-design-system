@@ -1,0 +1,4 @@
+interface:
+  display_name: "Before After Device Comparison"
+  short_description: "Toggle synchronized desktop and mobile previews of two design"
+  default_prompt: "Use $hds-device-comparison to apply before after device comparison to this project."

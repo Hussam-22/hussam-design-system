@@ -1,0 +1,7 @@
+node_modules/
+dist/
+gallery-dist/
+playwright-report/
+.env*
+*.tgz
+.qa/

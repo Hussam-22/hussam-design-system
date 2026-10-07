@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phone Device Frame"
+  short_description: "Dark rounded phone shell and tall clipped screen."
+  default_prompt: "Use $hds-phone-frame to apply phone device frame to this project."

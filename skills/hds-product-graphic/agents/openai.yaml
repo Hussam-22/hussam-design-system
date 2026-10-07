@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Service Illustration"
+  short_description: "Connected product nodes that shift subtly on hover."
+  default_prompt: "Use $hds-product-graphic to apply product service illustration to this project."

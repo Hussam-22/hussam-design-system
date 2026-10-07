@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-07",
+  "desktop": {
+    "width": 1440,
+    "height": 1100
+  },
+  "screenshots": [
+    "hds-spotlight-hover",
+    "hds-service-card",
+    "hds-gradient-palette",
+    "hds-gradient-text",
+    "hds-gradient-button",
+    "hds-ambient-glow",
+    "hds-grid-surface",
+    "hds-robot-orb",
+    "hds-tech-text",
+    "hds-sketch-mascot",
+    "hds-website-graphic",
+    "hds-redesign-graphic",
+    "hds-assistant-graphic",
+    "hds-dashboard-graphic",
+    "hds-product-graphic",
+    "hds-browser-transform",
+    "hds-responsive-showcase",
+    "hds-browser-frame",
+    "hds-phone-frame",
+    "hds-device-comparison",
+    "hds-scroll-reveal",
+    "hds-process-timeline",
+    "hds-project-card",
+    "hds-carousel",
+    "hds-section-heading",
+    "hds-arrow-link",
+    "hds-theme-tokens",
+    "hds-contribution-heatmap",
+    "hds-product-system",
+    "hds-chat-demo",
+    "hds-dashboard-demo",
+    "hds-ui-primitives"
+  ],
+  "checks": [
+    {
+      "name": "Spotlight follows pointer",
+      "status": "passed"
+    },
+    {
+      "name": "Comparison synchronizes desktop and phone",
+      "status": "passed"
+    },
+    {
+      "name": "Carousel next and previous",
+      "status": "passed"
+    },
+    {
+      "name": "Chat answers and discloses a source",
+      "status": "passed"
+    },
+    {
+      "name": "Dashboard adds searches and deletes a record",
+      "status": "passed"
+    },
+    {
+      "name": "Dialog supports Escape and focus return",
+      "status": "passed"
+    },
+    {
+      "name": "Responsive showcase toggles scoped details",
+      "status": "passed"
+    },
+    {
+      "name": "Dark palette",
+      "status": "passed"
+    },
+    {
+      "name": "Reduced motion robot fallback and spotlight",
+      "status": "passed"
+    },
+    {
+      "name": "Explicit motion setting reacts after mount",
+      "status": "passed"
+    },
+    {
+      "name": "All previews fit mobile viewport",
+      "status": "passed"
+    },
+    {
+      "name": "RTL carousel advances in reading direction",
+      "status": "passed"
+    }
+  ],
+  "runtimeErrors": [],
+  "robotWebGL": true,
+  "techTextPreview": "Captured from installed portfolio component",
+  "status": "passed"
+}

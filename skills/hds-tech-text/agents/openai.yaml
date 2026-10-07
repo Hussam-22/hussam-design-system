@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Technical Text"
+  short_description: "ReactBits technical text with sweep, outlined glyphs and spri"
+  default_prompt: "Use $hds-tech-text to apply interactive technical text to this project."

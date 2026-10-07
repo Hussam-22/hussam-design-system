@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Section Heading"
+  short_description: "Numbered overline and large tightly spaced display typography"
+  default_prompt: "Use $hds-section-heading to apply editorial section heading to this project."

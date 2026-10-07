@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animated Robot Sphere"
+  short_description: "Procedural Three.js pearl sphere with autonomous gaze, blink "
+  default_prompt: "Use $hds-robot-orb to apply animated robot sphere to this project."

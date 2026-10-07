@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arrow Link Hover"
+  short_description: "Text link whose northeast arrow shifts on hover."
+  default_prompt: "Use $hds-arrow-link to apply arrow link hover to this project."

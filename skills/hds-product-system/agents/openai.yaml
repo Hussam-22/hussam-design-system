@@ -1,0 +1,4 @@
+interface:
+  display_name: "Connected Product Diagram"
+  short_description: "Input, core and output architecture figure with a gradient co"
+  default_prompt: "Use $hds-product-system to apply connected product diagram to this project."

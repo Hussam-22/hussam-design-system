@@ -1,0 +1,4 @@
+interface:
+  display_name: "Responsive Website Showcase"
+  short_description: "Authored desktop and phone website presentation with expandab"
+  default_prompt: "Use $hds-responsive-showcase to apply responsive website showcase to this project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Light Dark Theme Tokens"
+  short_description: "Semantic colors and an optional theme toggle for the portfoli"
+  default_prompt: "Use $hds-theme-tokens to apply light dark theme tokens to this project."

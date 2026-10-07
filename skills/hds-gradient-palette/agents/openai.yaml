@@ -1,0 +1,4 @@
+interface:
+  display_name: "Violet Pink Amber Palette"
+  short_description: "Exact light/dark tokens and the signature 110-degree gradient"
+  default_prompt: "Use $hds-gradient-palette to apply violet pink amber palette to this project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Service Illustration"
+  short_description: "Tilted miniature browser, phone and pointer that align on hov"
+  default_prompt: "Use $hds-website-graphic to apply website service illustration to this project."

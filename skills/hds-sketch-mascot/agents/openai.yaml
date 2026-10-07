@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animated Line Mascot"
+  short_description: "Original robot line drawing with periodic blinking and changi"
+  default_prompt: "Use $hds-sketch-mascot to apply animated line mascot to this project."

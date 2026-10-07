@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Transformation"
+  short_description: "Original vector animation reorganizing a plain website into a"
+  default_prompt: "Use $hds-browser-transform to apply browser transformation to this project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snap Carousel"
+  short_description: "Horizontal snap track with previous/next controls, count and "
+  default_prompt: "Use $hds-carousel to apply snap carousel to this project."

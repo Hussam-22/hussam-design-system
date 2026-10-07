@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ambient Gradient Glow"
+  short_description: "Soft violet, pink and amber radial lighting behind artwork."
+  default_prompt: "Use $hds-ambient-glow to apply ambient gradient glow to this project."

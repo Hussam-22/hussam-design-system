@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Browser Frame"
+  short_description: "Rounded browser shell with chrome dots for product previews."
+  default_prompt: "Use $hds-browser-frame to apply desktop browser frame to this project."

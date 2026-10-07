@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gradient Pill Button"
+  short_description: "Rounded gradient CTA with arrow and brightness hover."
+  default_prompt: "Use $hds-gradient-button to apply gradient pill button to this project."

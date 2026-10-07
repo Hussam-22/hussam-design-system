@@ -1,0 +1,4 @@
+interface:
+  display_name: "Illustrated Service Card"
+  short_description: "Service card composition combining a hover spotlight with min"
+  default_prompt: "Use $hds-service-card to apply illustrated service card to this project."

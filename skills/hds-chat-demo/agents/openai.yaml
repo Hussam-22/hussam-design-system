@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grounded Chat Interface"
+  short_description: "Sample knowledge sidebar, chat bubbles, suggested questions a"
+  default_prompt: "Use $hds-chat-demo to apply grounded chat interface to this project."

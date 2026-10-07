@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redesign Service Illustration"
+  short_description: "Layered before-and-after screens with hover transforms."
+  default_prompt: "Use $hds-redesign-graphic to apply redesign service illustration to this project."

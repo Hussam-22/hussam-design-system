@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spotlight Hover"
+  short_description: "Cursor-following radial glow, card lift and violet border tra"
+  default_prompt: "Use $hds-spotlight-hover to apply spotlight hover to this project."

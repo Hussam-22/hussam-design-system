@@ -1,0 +1,39 @@
+@media (prefers-reduced-motion: no-preference) {
+  html:not([data-motion="reduce"])
+    [data-ui="service-card"]:is(:hover, :focus-visible) {
+    [data-ui="mini-browser"] {
+      transform: rotate(0) translateY(-3px);
+    }
+    [data-ui="mini-phone"] {
+      transform: rotate(0) translateY(4px);
+    }
+    [data-ui="graphic-pointer"] {
+      transform: translate(12px, -10px);
+    }
+    [data-ui="mini-old"] {
+      transform: rotate(-7deg) translateX(-4px);
+    }
+    [data-ui="mini-new"] {
+      transform: rotate(0) translateX(2px);
+    }
+    [data-ui="mini-docs"],
+    [data-ui="mini-chat"] {
+      transform: rotate(0) translateY(-2px);
+    }
+    [data-ui="mini-bars"] i:nth-child(odd) {
+      transform: scaleY(0.7);
+    }
+    [data-ui="mini-bars"] i:nth-child(even) {
+      transform: scaleY(1.16);
+    }
+    [data-ui~="product-node-one"] {
+      transform: translateY(-4px) rotate(-7deg);
+    }
+    [data-ui~="product-node-two"] {
+      transform: translateY(4px) rotate(7deg);
+    }
+    [data-ui~="product-node-three"] {
+      transform: translateX(-4px);
+    }
+  }
+}

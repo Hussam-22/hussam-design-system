@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Grid Surface"
+  short_description: "Subtle 24px grid for diagrams and illustration backgrounds."
+  default_prompt: "Use $hds-grid-surface to apply technical grid surface to this project."

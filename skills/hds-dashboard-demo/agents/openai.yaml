@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Workspace Dashboard"
+  short_description: "Sample sidebar, metrics, searchable sortable table and record"
+  default_prompt: "Use $hds-dashboard-demo to apply interactive workspace dashboard to this project."

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <radialGradient id="pearl" cx="35%" cy="23%" r="80%"><stop stop-color="#fff"/><stop offset=".47" stop-color="#ece6f1"/><stop offset=".77" stop-color="#b2a3c8"/><stop offset="1" stop-color="#776086"/></radialGradient>
+    <linearGradient id="rim" x2="1" y2="1"><stop stop-color="#bb8dff"/><stop offset=".55" stop-color="#f194ce"/><stop offset="1" stop-color="#ffbf83"/></linearGradient>
+    <linearGradient id="glass" x2=".5" y2="1"><stop stop-color="#292735"/><stop offset=".6" stop-color="#101018"/><stop offset="1" stop-color="#211627"/></linearGradient>
+    <linearGradient id="eye" x2="0" y2="1"><stop stop-color="#eed9ff"/><stop offset="1" stop-color="#c697f8"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <circle cx="300" cy="288" r="228" fill="none" stroke="url(#rim)" stroke-width="16" opacity=".45" filter="url(#glow)"/>
+  <circle cx="300" cy="288" r="222" fill="url(#pearl)" stroke="url(#rim)" stroke-width="3"/>
+  <path d="M141 183Q148 150 183 147Q298 124 422 153Q457 159 469 191Q488 257 466 330Q458 357 426 365Q295 399 170 368Q139 361 130 331Q112 260 141 183Z" fill="url(#glass)" stroke="#d5cbdc" stroke-width="8"/>
+  <path d="M156 193Q300 145 439 177" fill="none" stroke="#ffffff" stroke-width="5" opacity=".12"/>
+  <g fill="url(#eye)"><rect x="218" y="220" width="39" height="74" rx="19"/><rect x="345" y="217" width="39" height="74" rx="19"/></g>
+  <path d="M278 331Q303 345 328 330" fill="none" stroke="#dca8e9" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+  <ellipse cx="244" cy="120" rx="54" ry="19" fill="#fff" opacity=".45" transform="rotate(-20 244 120)"/>
+</svg>

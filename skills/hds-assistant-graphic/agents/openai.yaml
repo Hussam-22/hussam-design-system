@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assistant Service Illustration"
+  short_description: "Miniature knowledge documents and chat preview."
+  default_prompt: "Use $hds-assistant-graphic to apply assistant service illustration to this project."

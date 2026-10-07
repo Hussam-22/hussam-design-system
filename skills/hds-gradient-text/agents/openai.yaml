@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gradient Typography"
+  short_description: "Readable gradient text using the darker palette in light mode"
+  default_prompt: "Use $hds-gradient-text to apply gradient typography to this project."

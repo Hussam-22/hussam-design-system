@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll Reveal"
+  short_description: "Once-per-mount 24px rise and fade for content entering the vi"
+  default_prompt: "Use $hds-scroll-reveal to apply scroll reveal to this project."

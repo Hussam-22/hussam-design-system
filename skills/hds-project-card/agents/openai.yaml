@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Preview Card"
+  short_description: "Editorial project image card with subtle hover zoom."
+  default_prompt: "Use $hds-project-card to apply project preview card to this project."

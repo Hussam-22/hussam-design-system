@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rounded UI Primitives"
+  short_description: "Portfolio buttons, badges, inputs, labels and accessible Radi"
+  default_prompt: "Use $hds-ui-primitives to apply rounded ui primitives to this project."
